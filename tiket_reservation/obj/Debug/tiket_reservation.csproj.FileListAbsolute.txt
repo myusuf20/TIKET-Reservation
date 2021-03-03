@@ -1,0 +1,155 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Providers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojResolveAssemblyReference.cache
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Providers.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojResolveAssemblyReference.cache
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+C:\Users\lepkom2-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Providers.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+C:\Users\lepkom4-39\Documents\Visual Studio 2012\Projects\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll.config
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Http.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Providers.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Http.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojAssemblyReference.cache
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CoreCompileInputs.cache
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CopyComplete
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+E:\Lepkom\Pertemuan 4\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll.config
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\tiket_reservation.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\tiket_reservation.pdb
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\Antlr3.Runtime.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\EntityFramework.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Http.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Optimization.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Providers.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Razor.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\WebGrease.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\EntityFramework.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\Newtonsoft.Json.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Net.Http.Formatting.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Http.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Http.WebHost.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Mvc.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.Razor.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\bin\System.Web.WebPages.Razor.xml
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csprojAssemblyReference.cache
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CoreCompileInputs.cache
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.csproj.CopyComplete
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.dll
+C:\Users\ysbcc\source\repos\tiket_reservation\tiket_reservation\obj\Debug\tiket_reservation.pdb
