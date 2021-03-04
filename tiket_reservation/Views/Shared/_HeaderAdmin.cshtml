@@ -13,22 +13,19 @@
             </div>
             <div class="navbar-collapse navbar-inverse-collapse collapse">
                 <form class="navbar-form navbar-left ">
-                    <!--<div class="form-group">
-<button class="btn btn-raised" type="sumbit">Cari</button>
-</div>-->
+                    <!--<div class="form-group"><button class="btn btn-raised" type="sumbit">Cari</button>
+                    </div>-->
                 </form>
                 <ul class="nav-drop nav navbar-nav navbar-right">
                     <li class="dropdown">
                         <a href="#" data-target="dropdown"
                             class="dropdown-toggle" data-toggle="dropdown">
-                            <i class="fa fa-cog fa-spin fa-fw fa-lg"></i>Admin :
-                            @Session["admin"].ToString()
+                            <i class="fa fa-cog fa-spin fa-fw fa-lg"></i>Admin : @Session["admin"].ToString()
                             <b class="caret"></b>
                         </a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="@Url.Action("log_out", "admin")">Log
-Out <i class="fa fa-sign-out"></i>
+                                <a href="@Url.Action("log_out", "admin")">Log Out <i class="fa fa-sign-out"></i>
                                 </a>
                             </li>
                             <li class="divider"></li>
@@ -41,16 +38,14 @@ Out <i class="fa fa-sign-out"></i>
     </div>
     <div class="nav-side-menu">
         <div class="brand">
-            <i class="fa fa-rocket fa-lg fa-fw" aria-hidden="true"></i>Admin
-            @Session["admin"].ToString()
+            <i class="fa fa-rocket fa-lg fa-fw" aria-hidden="true"></i>Admin : @Session["admin"].ToString()
         </div>
         <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse"
             data-target="#menu-content"></i>
         <div class="menu-list">
             <ul id="menu-content" class="menu-content collapse out">
                 <li>
-                    <a style="display: block;"
-href="@Url.Action("dashboard_admin", "admin")">
+                    <a style="display: block;" href="@Url.Action("dashboard_admin", "admin")">
                         <i class="fa fa-area-chart fa-lg"></i>Statistik Pembeli
                     </a>
                 </li>
@@ -73,14 +68,12 @@ href="@Url.Action("dashboard_admin", "admin")">
                     </li>
                     <li class="active">
                         <a href="@Url.Action("pembeli_belum_lunas", "admin")">
-                            <i class="fa fa-chevron-right" aria-hidden="true"></i>Pembeli Belum
-Lunas
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>Pembeli Belum Lunas
                         </a>
                     </li>
                 </ul>
                 <li>
-                    <a style="display: block;"
-href="@Url.Action("kotak_validasi", "admin")">
+                    <a style="display: block;" href="@Url.Action("kotak_validasi", "admin")">
                         <i class="fa fa-envelope fa-lg"></i>Kotak Validasi Tiket
                     </a>
                 </li>

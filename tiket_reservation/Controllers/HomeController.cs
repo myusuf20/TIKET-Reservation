@@ -148,5 +148,31 @@ namespace tiket_reservation.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult Login_admin(admin postAdmin)
+        {
+            RefreshAllTable();
+
+            admin ad = db.admins.SingleOrDefault(u => u.email_admin == postAdmin.email_admin);
+            if (ad == null)
+            {
+                ViewBag.htmlError = "has-error";
+                ViewBag.errorMessage = "Username atau password anda salah."; return View();
+            }
+            bool comparePassword = PBKDF2Encription.VerifyHashedPassword(ad.pass_admin, postAdmin.pass_admin);
+            if (postAdmin.email_admin == ad.email_admin && comparePassword)
+            {
+                Session["admin"] = ad.nm_admin;
+                Session["email"] = ad.email_admin;
+                return RedirectToAction("dashboard_admin", "Admin");
+            }
+            else
+            {
+                ViewBag.htmlError = "has-error";
+                ViewBag.errorMessage = "Username atau password anda salah";
+            }
+            return View();
+        }
+
     }
 }
